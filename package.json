@@ -1,0 +1,25 @@
+{
+    "name": "twilio-demo",
+    "version": "1.0.0",
+    "description": "Demo API to send a reply by Whatsapp",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/cartovarc/twilio-demo.git"
+    },
+    "author": "Carlos Tovar",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/cartovarc/twilio-demo/issues"
+    },
+    "homepage": "https://github.com/cartovarc/twilio-demo",
+    "dependencies": {
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1",
+      "twilio": "^3.44.0"
+    }
+  }
+  
